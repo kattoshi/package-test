@@ -1,0 +1,22 @@
+{
+  "name": "@kattoshi/package-test",
+  "version": "0.1.0",
+  "description": "PAckage Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kattoshi/package-test.git"
+  },
+  "keywords": [
+    "package-test"
+  ],
+  "author": "kattoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kattoshi/package-test/issues"
+  },
+  "homepage": "https://github.com/kattoshi/package-test#readme"
+}
