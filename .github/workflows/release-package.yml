@@ -1,4 +1,4 @@
-name: @kattishi github package release test
+name: kattishi github package release test
 
 on:
   release:
